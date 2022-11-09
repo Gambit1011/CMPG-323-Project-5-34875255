@@ -9,5 +9,7 @@ report is broken up into three sections
 ![image](https://user-images.githubusercontent.com/89706817/200945182-dc27c20d-8257-4ad8-b7be-708f3e57e446.png)
 
 ## Device Monitoring
+![image](https://user-images.githubusercontent.com/89706817/200945660-935c4bc9-4052-4d56-a1d2-c5a0995aabaa.png)
 
 ## Device Registration
+![image](https://user-images.githubusercontent.com/89706817/200945765-0354385e-06ec-480c-911b-b2f75665d01a.png)
