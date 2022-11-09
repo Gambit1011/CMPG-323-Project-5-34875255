@@ -16,4 +16,30 @@ report is broken up into three sections
 
 
 # References
-https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-report-add-filter?tabs=powerbi-desktop
+https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-report-add-filter?tabs=powerbi-desktop <br />
+https://www.youtube.com/watch?v=8y4yjPYe4-8 <br />
+https://data-flair.training/blogs/power-bi-filter/ <br />
+https://youtu.be/vCDGHkPgU2M <br />
+https://community.powerbi.com/t5/Custom-Visuals-Development/power-kpi-matrix/m-p/515378  <br />
+https://k21academy.com/microsoft-azure/data-analyst/power-bi-transform-data/  <br />
+https://www.youtube.com/watch?v=d0BIDx-EaXA  <br />
+https://www.youtube.com/watch?v=0sOtYp6UMFA  <br />
+https://hevodata.com/learn/power-bi-transform-data/  <br />
+https://community.powerbi.com/t5/Report-Server/Data-Transformation-in-Power-Bi-Service/m-p/2376244  <br />
+https://www.c-sharpcorner.com/article/power-bi-basic-data-transformation-technique/  <br />
+https://powerbi.microsoft.com/en-au/blog/integrate-power-bi-reports-in-sharepoint-online/  <br />
+https://www.youtube.com/watch?v=XtH13UwUNgg  <br />
+https://www.youtube.com/watch?v=XuLnSYjmsJo  <br />
+https://www.beyondintranet.com/blog/power-bi-sharepoint-integrations-in-quick-steps/ <br />
+https://www.dummies.com/article/technology/software/microsoft-products/sharepoint/how-to-integrate-sharepoint-with-power-bi-264439/ <br />
+https://www.axioworks.com/2018/02/using-power-bi-with-sharepoint-data-the-ultimate-guide/ <br />
+https://blog.enterprisedna.co/sharepoint-benefits-in-power-bi-report-development/ <br />
+https://community.powerbi.com/t5/Service/Delete-Power-BI-visual-from-SharePoint-Online/m-p/2237150 <br />
+https://community.powerbi.com/t5/Service/Power-BI-using-Sharepoint-list-data-source-is-taking-about-1/m-p/1898820 <br />
+https://community.powerbi.com/t5/Service/sharepoint-list-connection/m-p/40187 <br />
+https://www.shortpoint.com/integrations/power-bi <br />
+https://powerbi.tips/2016/09/loading-excel-files-from-sharepoint/ <br />
+https://hevodata.com/learn/power-bi-live-connect/#:~:text=Power%20BI%20Live%20Connection%20is,source%20every%20time%20when%20needed. <br />
+https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-report-lifecycle-datasets <br />
+https://www.youtube.com/watch?v=-ip7mKUdwRg <br />
+https://radacad.com/live-connection-when-power-bi-comes-hybrid <br />
