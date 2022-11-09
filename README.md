@@ -13,3 +13,7 @@ report is broken up into three sections
 
 ## Device Registration
 ![image](https://user-images.githubusercontent.com/89706817/200945765-0354385e-06ec-480c-911b-b2f75665d01a.png)
+
+
+# References
+https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-report-add-filter?tabs=powerbi-desktop
